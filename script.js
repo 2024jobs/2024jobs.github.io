@@ -1,3 +1,3 @@
 function startchat() {
-    window.open('https://smrturl.co/o/159029/53441122?s1=', '_blank');
+    window.open('https://olkiju.com/cl/76bc1e414f06366d?p1=&p2=&source=&site=', '_blank');
 }
